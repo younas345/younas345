@@ -2,7 +2,7 @@
 - 🌱 I’m currently working Javascript diffrent frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
 - 📫 How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923491106613">+923491106613</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923126167017">+923491106613</a>)<br/>
               }
 <h1>Connect with me </h1>
 
