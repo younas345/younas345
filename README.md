@@ -7,15 +7,11 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=younas345&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="younas345" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **MERN Stack Developer** with over **4 years of professional experience** in building robust, scalable web applications. Currently expanding my expertise into modern technologies including **Next.js, TypeScript, Supabase, RabbitMQ, Redis, and WebRTC**.
+I'm a passionate **MERN Stack Developer** with over **4 years of professional experience** in building robust, scalable web applications. Currently expanding my expertise into modern technologies, including **Next.js, TypeScript, Supabase, RabbitMQ, Redis, and WebRTC**.
 
 - 🌱 **Currently mastering:** Advanced Next.js 14, Microservices Architecture, Real-time Systems
 - 💡 **Interests:** Full-stack development, System design, Performance optimization
@@ -61,26 +57,6 @@ I'm a passionate **MERN Stack Developer** with over **4 years of professional ex
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <a href="https://github.com/younas345">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=younas345&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="younas345's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/younas345">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younas345&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=younas345&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
 
 ## 📈 Contribution Graph
 
