@@ -43,7 +43,6 @@ I'm a passionate **MERN Stack Developer** with over **4 years of professional ex
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -60,8 +59,6 @@ I'm a passionate **MERN Stack Developer** with over **4 years of professional ex
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,30 +87,16 @@ I'm a passionate **MERN Stack Developer** with over **4 years of professional ex
   
 </div>
 
-## 🏆 Projects Showcase
-
-### 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project 1]** | Full-stack e-commerce platform | MERN, Redux, Stripe |
-| **[Project 2]** | Real-time chat application | Socket.io, WebRTC, Redis |
-| **[Project 3]** | Microservices architecture | Docker, RabbitMQ, Node.js |
-
-*(Replace with your actual project links and descriptions)*
-
 ## 📫 Connect With Me
 
 <div align="center">
   
   📱 **Phone:** [<img src="https://img.shields.io/badge/Phone-+92%20312%206167%20017-22C55E?style=for-the-badge&logo=phone&logoColor=white" />](tel:+923126167017)
   
-  📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+  📧 **Email:** [your.email@example.com](mailto:younas345m@gmail.com)
   
-  💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-  
-  🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-  
+  💼 **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-younas-7a6b67246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+    
 </div>
 
 ## 🤝 Let's Collaborate!
